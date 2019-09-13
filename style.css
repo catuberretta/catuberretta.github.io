@@ -154,6 +154,18 @@ a:hover {
 	color: #10328B;
 }
 
+.wiggle {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	width: 40px;
+}
+
+.wiggleLink {
+	vertical-align: middle;
+
+}
+
 .square {
 	width: 15px;
 	height: 15px;
@@ -202,4 +214,5 @@ a:hover {
 	letter-spacing: 3.86667px;
 
 	color: #10328B;
+
 }
