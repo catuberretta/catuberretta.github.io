@@ -21,11 +21,6 @@ a:hover {
 	/* identical to box height, or 208% */
 	letter-spacing: 3.86667px;
 	color: #CEDB17;
-
-	/* left: 3.52%;
-	right: 63.28%;
-	top: 3.37%;
-	bottom: 93.39%; */
 }
 
 #navbar {
@@ -36,13 +31,6 @@ a:hover {
 	line-height: 25px;
 	/* or 208% */
 	letter-spacing: 3.86667px;
-
-	/* position: absolute; */
-	/* left: 75.29%;
-	right: 3.81%;
-	top: 3.37%;
-	bottom: 86.9%; */
-
 }
 
 #navbar a {
@@ -51,6 +39,17 @@ a:hover {
 
 #navbar a:hover {
 	color: #CEDB17;
+}
+
+.wiggle {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	width: 40px;
+}
+
+.wiggleLink {
+	vertical-align: middle;
 }
 
 #intropost {
@@ -64,14 +63,6 @@ a:hover {
 	font-weight: normal;
 	font-size: 24px;
 	line-height: 30px;
-	/* or 125% */
-
-	/* position: absolute; */
-	/* left: 17.68%;
-	right: 14.26%;
-	top: 35%;
-	bottom: 33.85%; */
-
 	align-items: center;
 	text-indent: 4px;
 	color: #10328B;
@@ -82,7 +73,6 @@ a:hover {
 
 }
 
-
 .arrow {
 	width: 45px;
 	margin-top: 30px;
@@ -90,13 +80,6 @@ a:hover {
 
 
 #downHere {
-
-	/* position: absolute; */
-	/* left: 41.89%;
-	right: 41.8%;
-	top: 70.17%;
-	bottom: 23.22%; */
-
 	font-family: Rubik;
 	font-style: normal;
 	font-weight: normal;
@@ -106,8 +89,6 @@ a:hover {
 
 	padding-top: 30px;
 	letter-spacing: 3.86667px;
-
-
 }
 
 #downHere a {
@@ -118,22 +99,6 @@ a:hover {
 	color: #CEDB17;
 }
 
-.homepageGirl {
-	/* position: absolute;
-	left: 2.44%;
-	right: 22.66%;
-	top: 99.61%;
-	bottom: -80.29%; */
-
-	background-image: url(homepageGirl.png);
-}
-
-.links {
-	/* left: 23.44%;
-	right: 40.82%;
-	top: 58.04%;
-	bottom: 40.24%; */
-}
 
 #links h1 {
 	font-family: Rubik;
@@ -153,18 +118,6 @@ a:hover {
 
 #links a {
 	color: #10328B;
-}
-
-.wiggle {
-	display: inline-block;
-	vertical-align: middle;
-	margin-right: 10px;
-	width: 40px;
-}
-
-.wiggleLink {
-	vertical-align: middle;
-
 }
 
 .square {
@@ -199,12 +152,6 @@ a:hover {
 
 
 #projectsNavbar {
-	/* position: absolute; */
-	/* left: 31.64%;
-	right: 32.62%;
-	top: 55.82%;
-	bottom: 42.47%; */
-
 	font-family: Rubik;
 	font-style: normal;
 	font-weight: normal;
@@ -213,7 +160,5 @@ a:hover {
 	/* or 208% */
 
 	letter-spacing: 3.86667px;
-
 	color: #10328B;
-
 }
